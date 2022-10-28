@@ -4,8 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.com/) eğitiminde oluşturduğumuz ilk r
 
 
 
-![Kodluyoruz Logo][https://www.tpfund.org/wp-content/uploads/2019/07/logo-1.png]
-
+![Kodluyoruz Logo](https://www.tpfund.org/wp-content/uploads/2019/07/logo-1.png)
 
 
 
