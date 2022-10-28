@@ -1,2 +1,2 @@
-# kodluyoruzilkrepo
-Kodluyoruz eğitiminde ilk oluşturduğum repo
+# asdas
+asdfasdaswas
