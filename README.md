@@ -13,4 +13,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
- ` adsadas `
+``` 
+cd kodluyoruzilkrepo
+code .
+```
