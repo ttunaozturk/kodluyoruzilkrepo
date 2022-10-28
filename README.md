@@ -1,7 +1,25 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.com/) eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası bir adet index.html dosyası bulunuyor
 
-![Kodluyoruz Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkodluyoruz.org%2Ftr%2Fkodluyoruz%2F&psig=AOvVaw1kgzAUc4zqFYOjOlHjY-5b&ust=1667069732325000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCCuuvMg_sCFQAAAAAdAAAAABAE)
+
+
+
+![Kodluyoruz Logo][https://www.tpfund.org/wp-content/uploads/2019/07/logo-1.png]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -27,3 +45,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+[def]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tpfund.org%2Fproject%2Fkodluyoruz%2F&psig=AOvVaw19nqPuYI67O0snYVtzQwkd&ust=1667070681971000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCJuLDQg_sCFQAAAAAdAAAAABAX
